@@ -10,7 +10,6 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -44,10 +43,3 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
 
-
-## Acknowledgments
-
-special thanks goes to Otar Zakalshvili, for the opportunity to learn web development
-
-- Oto Zakalashvili: [Linkedin](https://www.linkedin.com/in/otarza/)
-- BitCamp: [BitCamp](https://www.facebook.com/groups/bitcamp.ge/permalink/8389844074389186/)
