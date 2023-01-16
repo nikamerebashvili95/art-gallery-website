@@ -42,4 +42,4 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
-
+- Linkedin - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
